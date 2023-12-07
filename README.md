@@ -1,25 +1,25 @@
-**日本語** / [English](https://github.com/kemo14331/Particle-Converter/blob/main/README_EN.md)
 # Particle Converter 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kemo14331/Particle-Converter)  [![GitHub license](https://img.shields.io/github/license/kemo14331/Particle-Converter)](https://github.com/kemo14331/Particle-Converter/blob/main/LICENSE)  
-画像ファイルをmcfunctionに変換するツール
+Particle Converter is an application that converts image files into particle commands for Minecraft.
 
 ## ScreenShot
- ![screenshot0](https://imgur.com/SEKM371.jpg,"screenshot")
+ ![screenshot0](https://imgur.com/HvnhBgF.jpg,"screenshot")
  <details>
  <summary>and more</summary><div>  
  <img src="https://imgur.com/Ld544Cx.jpg", "screenshot1">
  <img src="https://imgur.com/hdSbSkc.jpg" alt="screenshot2" />
  </div></details>  
 
-## Feature
-* 画像ファイル(.jpg|.png)をMinecraftで表示可能なparticleコマンドに変換し、mcfunction形式で出力
-* ワールド相対座標(\~)とローカル相対座標(\^)に対応
-* パラメータの変更をリアルタイムでプレビュー可能
-* 表示サイズをブロック単位で指定可能
-* 解像度の変更をサポート
-* dustの色指定に対応
-* dust以外のパーティクルに対応
-* アプリの多言語対応
+## Features
+* Converts an image file into a function that can be displayed in Minecraft
+* Supports world coordinate and local coordinate formats
+* Real-time output preview
+* Several configurable options, such as size, resolution, and color (for dust particles)
+* Compatible with particles other than dust, but loses color (color of particle overrides)
+* Multi-language support
+
+English translation originally provided with www.DeepL.com/Translator (free version)
+(I am working on a native English translation)
 
 ## Downloads
  [Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest)
